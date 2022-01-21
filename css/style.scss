@@ -1,0 +1,7 @@
+@import "../../node_modules/bulma/sass/utilities/initial-variables";
+
+/* overwrite Bulma Variables */
+// see https://bulma.io/documentation/customize/variables/
+$text-strong: yellow;
+
+@import "../../node_modules/bulma/bulma";
