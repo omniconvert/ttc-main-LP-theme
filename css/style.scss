@@ -1,7 +1,7 @@
-@import "../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../../node_modules/bulma/sass/utilities/initial-variables";
 
 /* overwrite Bulma Variables */
 // see https://bulma.io/documentation/customize/variables/
 $text-strong: green;
 
-@import "../../node_modules/bulma/bulma";
+@import "../../../node_modules/bulma/bulma";
